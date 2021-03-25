@@ -67,6 +67,7 @@ autopages:
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
